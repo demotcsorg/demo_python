@@ -1,6 +1,6 @@
 This is a sample app developed for [Azure Developer Stories](https://devstories.konfhub.com/) contest. 
 
-To run locally, clone the repo and run `flask run`.
+To run locally, clone the repo and run `flask run`. It will work.
 
 The repo uses HTML, Python, flask and bootstrap CSS.
 
